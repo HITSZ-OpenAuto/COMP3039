@@ -1,0 +1,144 @@
+ID: "COMP3039"
+SimilarID: []
+Name: "嵌入式计算"
+CourseProperty:
+  - Year: "2020_2021"
+    Major:
+      - Name: ["计算机", "计算机（第二学位）"]
+        Degree: "本"
+    GradeSemesters:
+      - Grade: "大二"
+        Semester: "春"
+    CourseType: "选修"
+    CourseID: "COMP3039"
+    CourseName: "嵌入式计算"
+    Credit: "2.5"
+    CourseHour: "40.0"
+    GPAInfluence: "GPA"
+    GroupCourse:
+      Link: ""
+      Desc: ""
+      Name: ""
+      Ids: ["", "", ""]
+    GradeComposition:
+      - Name: "作业"
+        Percentage: "40"
+      - Name: "期末考试"
+        Percentage: "60"
+    CourseHourComposition:
+      - Name: "授课"
+        Hour: ""
+      - Name: "实验"
+        Hour: ""
+  - Year: "2021_2022"
+    Major:
+      - Name: ["计算机", "计算机（第二学位）"]
+        Degree: "本"
+    GradeSemesters:
+      - Grade: "大二"
+        Semester: "春"
+    CourseType: "选修"
+    CourseID: "COMP3039"
+    CourseName: "嵌入式计算"
+    Credit: "2.5"
+    CourseHour: "40.0"
+    GPAInfluence: "GPA"
+    GroupCourse:
+      Link: ""
+      Desc: ""
+      Name: ""
+      Ids: ["", "", ""]
+    GradeComposition:
+      - Name: "作业"
+        Percentage: "40"
+      - Name: "期末考试"
+        Percentage: "60"
+    CourseHourComposition:
+      - Name: "授课"
+        Hour: ""
+      - Name: "实验"
+        Hour: ""
+  - Year: "2022_2023"
+    Major:
+      - Name: ["计算机"]
+        Degree: "本"
+    GradeSemesters:
+      - Grade: "大二"
+        Semester: "春"
+    CourseType: "选修"
+    CourseID: "COMP3039"
+    CourseName: "嵌入式计算"
+    Credit: "2.0"
+    CourseHour: "32.0"
+    GPAInfluence: "GPA"
+    GroupCourse:
+      Link: ""
+      Desc: ""
+      Name: ""
+      Ids: ["", "", ""]
+    GradeComposition:
+      - Name: "作业"
+        Percentage: "40"
+      - Name: "期末考试"
+        Percentage: "60"
+    CourseHourComposition:
+      - Name: "授课"
+        Hour: ""
+      - Name: "实验"
+        Hour: ""
+  - Year: "2023_2024"
+    Major:
+      - Name: ["智能强基班", "计算机"]
+        Degree: "本"
+    GradeSemesters:
+      - Grade: "大二"
+        Semester: "春"
+    CourseType: "选修"
+    CourseID: "COMP3039"
+    CourseName: "嵌入式计算"
+    Credit: "2.0"
+    CourseHour: "32.0"
+    GPAInfluence: "GPA"
+    GroupCourse:
+      Link: ""
+      Desc: ""
+      Name: ""
+      Ids: ["", "", ""]
+    GradeComposition:
+      - Name: "作业"
+        Percentage: "40"
+      - Name: "期末考试"
+        Percentage: "60"
+    CourseHourComposition:
+      - Name: "授课"
+        Hour: ""
+      - Name: "实验"
+        Hour: ""
+  - Year: "2024_2025"
+    Major:
+      - Name: ["计算机"]
+        Degree: "本"
+    GradeSemesters:
+      - Grade: "大二"
+        Semester: "春"
+    CourseType: "选修"
+    CourseID: "COMP3039"
+    CourseName: "嵌入式计算"
+    Credit: "2.0"
+    CourseHour: "32.0"
+    GPAInfluence: "GPA"
+    GroupCourse:
+      Link: ""
+      Desc: ""
+      Name: ""
+      Ids: ["", "", ""]
+    GradeComposition:
+      - Name: "作业"
+        Percentage: "40"
+      - Name: "期末考试"
+        Percentage: "60"
+    CourseHourComposition:
+      - Name: "授课"
+        Hour: ""
+      - Name: "实验"
+        Hour: ""
