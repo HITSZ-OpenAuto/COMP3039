@@ -1,0 +1,15 @@
+# 警告：输入内容为通用模板，无法提取具体的课程代码、课程名称和教师信息。
+course_name: ""
+course_code: ""
+notices: ""
+grading:
+  0000: "作业(40%) + 期末考试(60%)"
+teachers: []
+textbooks: []
+online_resources: []
+about_course: []
+about_exam: []
+study_advice: []
+schedule: []
+related_links: []
+misc: []
