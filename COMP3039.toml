@@ -1,0 +1,23 @@
+# 注意: 课程名称缺失，请补充。
+course_name = ""
+course_code = "COMP3039"
+notices = ""
+
+[[lecturers]]
+name = "（教师名）"
+
+  [[lecturers.reviews]]
+  content = """授课风格：
+听课建议：
+……"""
+  author = { name = "", link = "", date = "" }
+
+textbooks = []
+online_resources = []
+course = []
+exam = []
+lab = []
+advice = []
+schedule = []
+related_links = []
+misc = []
