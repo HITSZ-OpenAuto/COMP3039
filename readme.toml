@@ -1,5 +1,4 @@
 course_name = "嵌入式计算"
-repo_type = "normal"
 course_code = "COMP3039"
-
+repo_type = "normal"
 description = "COMP3039 - 嵌入式计算"
